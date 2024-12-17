@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="queastion">Вопрос</string>
+    <string name="answer">Отправить</string>
+    <string name="restrat">Перезапустить</string>
+    <string name="answer0">Ваш результат: 0 из 10</string>
+    <string name="asd">Ответить</string>
+    <string name="dfg">Как называется столица России?</string>
+</resources>
